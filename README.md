@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in - Coding
 
-- 🌱 I’m currently learning - Python, HTMl and CSS
+- 🌱 I’m currently learning - 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
